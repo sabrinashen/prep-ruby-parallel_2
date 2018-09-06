@@ -1,2 +1,2 @@
 # prep-ruby-parallel
-selenium grid with rspec and parallel_tests
+automation framework - selenium grid with rspec and parallel_tests
